@@ -1,10 +1,10 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: "JianXun Liu"
-date: "March 2, 2016"
+date: "March 5, 2016"
 output: html_document
-keep_md: true
 ---
+
 
 
 ## Loading and preprocessing the data
