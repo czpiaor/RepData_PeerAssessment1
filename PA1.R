@@ -15,7 +15,7 @@ median(total.steps, na.rm=TRUE)
 
 
 ## ------------------------------------------------------------------------
-library(ggplot2)
+##library(ggplot2)
 averages <- aggregate(x=list(steps=data$steps), by=list(interval=data$interval),
                       FUN=mean, na.rm=TRUE)
 ggplot(data=averages, aes(x=interval, y=steps)) +
