@@ -2,7 +2,7 @@
 title: 'Reproducible Research: PA1'
 author: "JianXun Liu"
 date: "March 6, 2016"
-output: html_document
+output: md_document
 ---
 
 
